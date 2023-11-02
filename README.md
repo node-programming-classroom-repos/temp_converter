@@ -4,7 +4,9 @@ Du behöver även skapa en funktion.
 
 ### Krav för uppgiften
 Ditt program ska kunna konvertera temperaturer från en skala till en annan.
+
 Skapa en fil som heter **temperatureConverter.js** och i den implementera en funktion som heter **convertTemperature**.
+
 Funktionen ska kunna konvertera en angiven temperatur i en viss skala till en annan skala.
 Skalorna som ska kunna konverteras är Celsius, Fahrenheit och Kelvin.
 Exempelvis ska funktionen kunna konvertera 20 grader Celsius till korrekt gradantal i Kelvin, eller t ex 80 grader Fahrenheit till Celsius.
