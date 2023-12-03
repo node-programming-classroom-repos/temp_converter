@@ -38,7 +38,7 @@ Du kan installera jest med kommandot;
 För att köra testet;
 
 
-    $npm test tempConverter.test.js
+    $npm test temperatureConverter.test.js
 
 
 I övrigt gäller att package.json får ändras, men inga packages/andra moduler får tillämpas i din lösning.
